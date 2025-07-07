@@ -64,7 +64,7 @@ Manual grass cutting is labor-intensive, time-consuming, and inefficient for lar
 ## 📄 Gerber File
 
 PCB Gerber files for the motor control board:  
-📁 [Download Gerber Files](./gerber/PCB-Gerber-Files.zip)
+📁 [Download Gerber Files](https://github.com/sundararaajan/Grass-cutting-/blob/main/Automatic_Grass_Cutting_Robot_Gerber.zip)
 
 ---
 
