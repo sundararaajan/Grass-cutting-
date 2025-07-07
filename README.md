@@ -71,7 +71,7 @@ PCB Gerber files for the motor control board:
 ## 💻 Arduino Code
 
 Find the Arduino sketch here:  
-📂 [`/code/grass_cutting_robot.ino`](./code/grass_cutting_robot.ino)
+📂 [`/code/grass_cutting_robot.ino`](https://github.com/sundararaajan/Grass-cutting-/blob/main/IOT_code.ino)
 
 ---
 
