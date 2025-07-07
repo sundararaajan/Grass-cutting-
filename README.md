@@ -6,7 +6,7 @@ A microcontroller-based project developed for **L&T EduTech's Microcontroller-ba
 
 ## 🖼️ Project Preview
 
-![Robot Preview](./images/robot_preview.png)  
+![Robot Preview](https://github.com/sundararaajan/Grass-cutting-/blob/main/lawn.jpeg)  
 *A snapshot of the automatic grass cutting robot prototype.*
 
 ---
