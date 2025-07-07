@@ -53,7 +53,7 @@ Manual grass cutting is labor-intensive, time-consuming, and inefficient for lar
 
 ## ⚡ Circuit Simulation
 
-![TinkerCad Circuit](./images/circuit_simulation.png)  
+![TinkerCad Circuit](https://github.com/sundararaajan/Grass-cutting-/blob/main/Copy%20of%20Grass%20Cutter%20Project.png)  
 *A visual of the robot’s simulated circuit on TinkerCad.*
 
 🔗 [TinkerCad Simulation Link](https://www.tinkercad.com/things/hL82iCBylOG-grass-cutter-project)
