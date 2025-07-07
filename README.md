@@ -56,7 +56,7 @@ Manual grass cutting is labor-intensive, time-consuming, and inefficient for lar
 ![TinkerCad Circuit](https://github.com/sundararaajan/Grass-cutting-/blob/main/Copy%20of%20Grass%20Cutter%20Project.png)  
 *A visual of the robot’s simulated circuit on TinkerCad.*
 
-🔗 [TinkerCad Simulation Link](https://www.tinkercad.com/things/hL82iCBylOG-grass-cutter-project)
+
 
 
 ---
@@ -78,7 +78,7 @@ Find the Arduino sketch here:
 ## 📐 Simulated Circuit
 
 Simulated files in `.fzz` or exported `.brd/.sch` formats:  
-📂 [`/circuit_simulation/`](./circuit_simulation/)
+📂 [`/circuit_simulation/`](https://github.com/sundararaajan/Grass-cutting-/blob/main/Copy%20of%20Grass%20Cutter%20Project.brd)
 
 ---
 
